@@ -57,10 +57,10 @@ localHTTPS: true
 
 # E-mail configuration
 # Note: Mailgun and SparkPost (https://sparkpo.st/smtp) each have good free tiers
-# SMTPServer: 
-# SMTPPort: 
+# SMTPServer:
+# SMTPPort:
 # SMTPLogin:
-# SMTPPassword: 
+# SMTPPassword:
 # SMTPDomain:
 
 # Optional asset host for multi-server setups
